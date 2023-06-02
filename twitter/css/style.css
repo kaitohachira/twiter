@@ -1,0 +1,41 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.caixa1{
+   
+    height: 50rem;
+    width: 80px;
+    border: 14px;
+    margin: 10rem;
+    background-color: aqua;
+}
+
+.caixa2{
+    align-items: center;
+}
+
+.img1{
+    align-items: center;
+    border-radius: 200px;
+    height: 6rem;
+    width: 6rem;
+}
+
+.img2{
+ 
+    border-radius: 3.0rem;
+    height: 18rem;
+    width: 18rem;
+}
+
+.h3{
+    display: flexbox;
+    text-align: center;
+}
+
+.div-princi{
+    display: flexbox;
+    text-align: center;
+}
